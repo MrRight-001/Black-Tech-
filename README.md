@@ -109,7 +109,7 @@ Deploy BLACK TECH with one click on any platform below:
 - [officiablack](https://github.com/Mrright-001)
 - [Baileys](https://github.com/WhiskeySockets)
 
-<p align="center">🇬🇭 Made with ❤️ in Kenya</p>
+<p align="center">🇰🇪 Made with ❤️ in Kenya</p>
 
 ---
 
